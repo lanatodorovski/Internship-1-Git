@@ -2,6 +2,6 @@ Lana ima 0 pobjeda 0 y poraza!
 Lucas ima 0 pobjeda 0 n poraza!
 
 . X O
-. . O
+. O O
 X . .
 
