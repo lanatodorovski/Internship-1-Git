@@ -1,7 +1,7 @@
-Lana ima 0 pobjeda 0 y poraza!
-Lucas ima 0 pobjeda 0 n poraza!
+Lana ima 0 pobjeda 0 poraza!
+Lucas ima 0 pobjeda 0 poraza!
 
 . X O
-. . O
+. X O
 X . .
 
