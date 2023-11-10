@@ -3,5 +3,5 @@ Lucas ima 1 pobjeda 0 poraza!
 
 . X O
 . X O
-X . .
+X O .
 
